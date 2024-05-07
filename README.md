@@ -70,24 +70,6 @@ In this project we created a Apartment management system with user interface and
 <kbd><img src="assets/er-diagram.png" width="800px"></kbd>
 </details>
 
-## Screenshots of the Implementation
-
-### Admin dashboard
-
-<kbd><img src="assets/admin.png" alt="admin-dashboard" width="800px"></kbd>
-
-### Owner dashboard
-
-<kbd><img src="assets/owner.png" alt="owner-dashboard" width="800px"></kbd>
-
-### Tenant dashboard
-
-<kbd><img src="assets/tenant.png" alt="tenant-dashboard" width="800px"></kbd>
-
-### Employee dashboard
-
-<kbd><img src="assets/employee.png" alt="employee-dashboard" width="800px"></kbd>
-
 # How to Run
 
 - First, clone the github repo
