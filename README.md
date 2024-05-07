@@ -101,7 +101,7 @@ In this project we created a Apartment management system with user interface and
 
           npm install
 
-- Install MySql workbench if you don't have one, and then import the export.sql file under database folder in workbench.
+- Install MySql workbench if you dont have one, and then import the export.sql file under database folder in workbench.
 
 - Then in server folder create a file "config_sql.js" add localhost name, database name, username and password of your sql workbench and export it.
 
